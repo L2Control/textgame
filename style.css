@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  overflow: hidden;
+}
+
+.iphone {
+  width: 50vw;
+  height: 100vh;
+  background-image: url("iphone_img.png");
+  background-size: 100% 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.border {
+  position: absolute;
+  overflow: hidden;
+  left: 31.5%;
+  right: 34%;
+  top: 18%;
+  bottom: 20.5%;
+}
