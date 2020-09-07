@@ -3,6 +3,9 @@ body {
   overflow: hidden;
   font-family: Helvetica, sans-serif;
 }
+p {
+  margin: 0;
+}
 /*IPHONE*/
 .iphone {
   width: 410px;
@@ -85,17 +88,92 @@ body {
 }
 /*----*/
 
-/* Chatscroll */
-form.chat ::-webkit-scrollbar {
-  width: 3px;
-  height: 1px;
-  transition: all 0.5s;
-  z-index: 10;
+/* Chattscroll */
+
+.border {
+  overflow: hidden;
 }
-form.chat ::-webkit-scrollbar-track {
-  background-color: white;
+.iphone-chat {
+  overflow: auto;
 }
-form.chat ::-webkit-scrollbar-thumb {
-  background-color: #bec4c8;
-  border-radius: 3px;
+*::-webkit-scrollbar {
+  width: 4px;
+}
+*::-webkit-scrollbar-track {
+  color: #7f7d7d;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #7f7d7d;
+  border-radius: 5px;
+  border: 2px solid #7f7d7d;
+}
+
+/* Chattbubblor*/
+.iphone-chat {
+  height: 97%;
+}
+
+.erica {
+  background-color: #eee;
+  float: left;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.me {
+  background-color: #0084ff;
+  color: #fff;
+  float: right;
+  margin-right: 10px;
+  margin-left: 120px;
+}
+
+.erica,
+.me {
+  padding: 10px;
+  max-width: 200px;
+  border-radius: 15px;
+}
+
+.me + .erica {
+  margin-top: 15px;
+}
+.erica + .me {
+  margin-top: 15px;
+}
+
+.me:last-of-type,
+.erica:last-of-type {
+  margin-bottom: 15px;
+}
+.chat-img {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 5px;
+}
+
+.chat-img + .chat-img {
+  margin-top: 5px;
+}
+
+/*Chat time */
+.chat-time {
+  text-align: center;
+  margin-top: 11vh;
+}
+
+/*Pick options*/
+
+.option-picker {
+  height: 16.4vh;
+  width: 100%;
+  border-top: 2px solid black;
+}
+option {
+  width: 100%;
+  height: 3vh;
+  font-size: 15px;
+  padding: 10px 0;
+  border: 1px solid black;
+  text-align: center;
 }
