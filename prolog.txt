@@ -23,10 +23,10 @@
 <p class=me>Var det en snygg kille??</p>
 <p class=erica>Nej tyvärr inte...</p>
 <p class=erica>Det var en förvirrad gammal <br> gubbe</p>
-<p class=me>Jaha det var ju tråigt... Vad ville han då?</p>
+<p class=me>Jaha det var ju tråkigt... Vad ville han då?</p>
 <p class=erica>Han var ny i området och <br> undrade var närmaste ICA <br>fanns</p>
 <p class=me>Okej haha</p>
-<p class=erica>Men du</p>
+<p class=erica style=margin-right:200px>Men du</p> 
 <p class=me>Ja?</p>
 <p class=erica>Jag måste skynda mig. <br>Har träning snart</p>
 <p class=me>Okej, vi hörs senare eller <br> imorgon</p>
