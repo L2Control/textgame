@@ -2,8 +2,7 @@ $(document).ready(function () {
   $.ajax({
     url: "prolog.txt",
     success: function (data) {
-      //skriver ut introduktionen från textfilen
-      $(".chat-time").after(data);
+      sentMsg(data);
     },
   });
   $("#a").click(function () {
@@ -17,6 +16,32 @@ $(document).ready(function () {
   });
 });
 
+function sentMsg(str) {
+  let chatArray = [],
+    i = 0;
+  chatArray = str.split("\n");
+
+  //En timer för att skicka ut varje meddelande separat
+  let timer = setInterval(() => {
+    //läggs ut före en tom p-tag som är efter chat-time
+    $("#start").before(chatArray[i]);
+
+    //automatisk scroll
+    scrollBot();
+    if (i == chatArray.length) {
+      checkOB();
+      clearInterval(timer);
+    }
+    i++;
+  }, 2000);
+}
+
+function scrollBot() {
+  $(".iphone-chat").animate(
+    { scrollTop: $(".iphone-chat").prop("scrollHeight") },
+    2000
+  );
+}
 //Realtid
 const timeP = document.querySelector("#realTime");
 
@@ -60,6 +85,7 @@ function addOB() {
   var chatbox = document.querySelector(".iphone-chat");
   optionPick.style.display = "block";
   chatbox.style.height = "75%";
+  scrollBot();
 }
 
 //Tar bort valen
@@ -129,4 +155,3 @@ function ajaxClick(button) {
 
 realTime();
 updateTime();
-checkOB();
