@@ -18,7 +18,6 @@ p {
 /*iPhone Boxen*/
 .border {
   position: absolute;
-  overflow: auto;
   left: 9.3%;
   right: 10.3%;
   top: 13%;
@@ -117,7 +116,7 @@ p {
   background-color: #eee;
   float: left;
   margin-left: 10px;
-  margin-right: 100px;
+  margin-right: 72px;
 }
 
 .me {
@@ -125,13 +124,13 @@ p {
   color: #fff;
   float: right;
   margin-right: 10px;
-  margin-left: 120px;
+  margin-left: 72px;
 }
 
 .erica,
 .me {
   padding: 10px;
-  max-width: 200px;
+  max-width: 224px;
   border-radius: 15px;
 }
 
@@ -157,9 +156,22 @@ p {
 }
 
 /*Chat time */
+.start-chat {
+  margin-top: 11vh;
+}
 .chat-time {
   text-align: center;
-  margin-top: 11vh;
+  color: grey;
+  margin-bottom: 3px;
+}
+
+.center-later-me {
+  margin-right: 99px;
+  float: right;
+}
+.center-later-erica {
+  float: left;
+  margin-left: 99px;
 }
 
 /*Pick options*/

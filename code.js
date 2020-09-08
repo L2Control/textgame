@@ -1,4 +1,11 @@
 $(document).ready(function () {
+  $.ajax({
+    url: "prolog.txt",
+    success: function (data) {
+      //skriver ut introduktionen från textfilen
+      $(".chat-time").after(data);
+    },
+  });
   $("#a").click(function () {
     ajaxClick(this);
   });
@@ -82,6 +89,7 @@ function playerChoice(val) {
 
       document.querySelector("#c").value = "val6";
       document.querySelector("#c").innerHTML = "Val 6";
+      break;
   }
 }
 

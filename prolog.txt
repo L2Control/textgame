@@ -1,24 +1,33 @@
-2Tjena, hur är läget idag?
-1Det är riktigt skönt idag, fick ett B på Svenska provet också. Jag är väldigt stolt över mig själv.
-2Ah! Det lät riktigt bra
-2Du förresten!
-2Har du hört om mordet som hände igår?!?!?
-1Nej, vadå för mord?!
-2Det är en person som går runt och mördar studenter.
-2Är inte det ganska läskigt?
-1Skojar du, om du inte har märkt det är jag en student!
-2Ta det lugnt. Hur många studenter tror du det finns? Du är en av dem.
-2Jag tror inte du behöver tänka på det.
-1mmmmm…..
-2Sååå, har du inte hittat på något annat kul?
-1Nej, inget annat än svenskprovet.
-1Vänta lite det ringer på dörren, kommer snart.
-2Okej
-1Tillbaka
-2Vem var det som ringde på dörren?
-2En snygg kille?
-1Nej, snarare en 50 år gammal gubbe som ville låna lite ingredienser.
-2Aha, tråkigt.
-1Oh jag måste skynda mig ska snart ha träning.
-1Vi hörs av imorgon eller något, hej då.
-2Hej då
+<p class=me>Hej hur är det?</p>
+<p class=erica>Det är ritkigt bra idag faktiskt</p>
+<p class=erica>Fick ett B på svenska provet <br>och är väldigt nöjd</p>
+<p class=me>Naaaajs! Låter riktigt bra</p>
+<p class=me>Du förresten!</p>
+<p class=me>Har du hört om vad som <br>hände igår??</p>
+<p class=erica>Nej vad??</p>
+<p class=me>Det är någon som går runt och mördar en massa studenter</p>
+<p class=erica>Är du seriös!?</p>
+<p class=me>JA DET ÄR HELT SJUKT</p>
+<p class=erica>Okej.. var är detta någonstans?</p>
+<p class=me>Det är i Lund!!!</p>
+<p class=erica>MEN HALLÅ JAG PLUGGAR <br>JU DÄR</p>
+<p class=me>Jo men ta det lugnt. Det finns ju tusentals studenter i Lund</p>
+<p class=erica>Ja det är väl sant...</p>
+<p class=me>Så har du hittat på något<br> speciellt?</p>
+<p class=erica>Nej inte direkt... har varit fullt <br>fokus på svenskprovet</p>
+<p class=erica>Vänta lite någon ringde<br> på dörren</p>
+<p class=me>Okej</p>
+<p class="chat-time center-later-me">5 minuter senare</p>
+<p class=erica>Tillbaka</p>
+<p class=me>Vem var det?</p>
+<p class=me>Var det en snygg kille??</p>
+<p class=erica>Nej tyvärr inte...</p>
+<p class=erica>Det var en förvirrad gammal <br> gubbe</p>
+<p class=me>Jaha det var ju tråigt... Vad ville han då?</p>
+<p class=erica>Han var ny i området och <br> undrade var närmaste ICA <br>fanns</p>
+<p class=me>Okej haha</p>
+<p class=erica>Men du</p>
+<p class=me>Ja?</p>
+<p class=erica>Jag måste skynda mig. <br>Har träning snart</p>
+<p class=me>Okej, vi hörs senare eller <br> imorgon</p>
+<p class=erica>Det gör vi</p>
