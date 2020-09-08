@@ -1,36 +1,17 @@
 $(document).ready(function () {
   $("#a").click(function () {
-    $.ajax({
-      url: "val1.txt",
-      success: function (data) {
-        $("#cp").after(data);
-        playerChoice(1);
-      },
-    });
+    ajaxClick(this);
   });
   $("#b").click(function () {
-    $.ajax({
-      url: "val2.txt",
-      success: function (data) {
-        $("#cp").after(data);
-        playerChoice(2);
-      },
-    });
+    ajaxClick(this);
   });
   $("#c").click(function () {
-    $.ajax({
-      url: "val3.txt",
-      success: function (data) {
-        $("#cp").after(data);
-        playerChoice(3);
-      },
-    });
+    ajaxClick(this);
   });
 });
 
 //Realtid
 const timeP = document.querySelector("#realTime");
-const chatT = document.querySelector("#chatTime");
 
 // skapar interval med uppdatering av tiden
 // varje minut
@@ -54,11 +35,12 @@ function realTime() {
 }
 //Väntar till ett element har "end" class och isåfall visas valmöjligheterna
 //och storleken på smsrutan ändras
-function onStartOB() {
+function checkOB() {
   var optionPick = document.querySelector(".option-picker");
   var cp = document.querySelector("#cp");
   if (optionPick.style.display == "none" && cp.style.display != "none") {
     addOB();
+    clearInterval(aIntervId);
   } else {
     removeOB();
   }
@@ -66,6 +48,7 @@ function onStartOB() {
 
 //Visar valen
 function addOB() {
+  clearInterval();
   var optionPick = document.querySelector(".option-picker");
   var chatbox = document.querySelector(".iphone-chat");
   optionPick.style.display = "block";
@@ -88,13 +71,54 @@ function removeCheckPoint() {
 
 //Fortsätter utifrån vilket val spelaren gjorde
 function playerChoice(val) {
-  removeCheckPoint();
-  if (val == 1) {
-  } else if (val == 2) {
-  } else if (val == 3) {
+  let choice = parseInt(val.replace("val", ""));
+  switch (choice) {
+    case 1:
+      document.querySelector("#a").value = "val4";
+      document.querySelector("#a").innerHTML = "Val 4";
+
+      document.querySelector("#b").value = "val5";
+      document.querySelector("#b").innerHTML = "Val 5";
+
+      document.querySelector("#c").value = "val6";
+      document.querySelector("#c").innerHTML = "Val 6";
   }
+}
+
+var aIntervId;
+//Interval för att kolla efter checkpoint
+function cpInterval() {
+  aIntervId = setInterval(checkOB, 1000 * 1);
+}
+
+//Stoppar intervallet
+function cpStopInterval() {
+  clearInterval(aIntervId);
+}
+
+function ajaxClick(button) {
+  let urlText = $(button).val();
+  $.ajax({
+    url: urlText + ".txt",
+    success: function (data) {
+      //skickar ut de nya smsen från textfilen
+      $("#cp").after(data);
+
+      //kollar vilka de nya valen är beroende på föregående val
+      playerChoice(urlText);
+
+      //tar bort gamla checkpoint
+      removeCheckPoint();
+
+      //Skapar nytt intervall för checkpoint sökaren
+      cpInterval();
+
+      //Tar "selected" tillbaka till default (inget)
+      $(".option-picker").val($(".option-picker").data("default-value"));
+    },
+  });
 }
 
 realTime();
 updateTime();
-onStartOB();
+checkOB();

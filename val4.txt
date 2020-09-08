@@ -1,0 +1,4 @@
+<p class=erica>Du har valt val 1</p>
+<p class=me>okej??</p>
+<p class=erica>det är fixat</p>
+<p class=erica id=cp>vad ska jag göra?</p>

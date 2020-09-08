@@ -168,6 +168,7 @@ p {
   height: 16.4vh;
   width: 100%;
   border-top: 2px solid black;
+  overflow: hidden;
 }
 option {
   width: 100%;
@@ -178,6 +179,12 @@ option {
   text-align: center;
 }
 
+option:focus,
+option:active,
+option:checked {
+  background: linear-gradient(#0084ff, #0084ff);
+  font-weight: bold;
+}
 #a:hover,
 #b:hover,
 #c:hover {
