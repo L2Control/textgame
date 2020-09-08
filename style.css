@@ -4,7 +4,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 p {
-  margin: 0;
+  margin: 1px 0;
 }
 /*IPHONE*/
 .iphone {
@@ -176,4 +176,13 @@ option {
   padding: 10px 0;
   border: 1px solid black;
   text-align: center;
+}
+
+#a:hover,
+#b:hover,
+#c:hover {
+  background-color: #0084ff;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
 }

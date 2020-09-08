@@ -1,6 +1,37 @@
+$(document).ready(function () {
+  $("#a").click(function () {
+    $.ajax({
+      url: "val1.txt",
+      success: function (data) {
+        $("#cp").after(data);
+        playerChoice(1);
+      },
+    });
+  });
+  $("#b").click(function () {
+    $.ajax({
+      url: "val2.txt",
+      success: function (data) {
+        $("#cp").after(data);
+        playerChoice(2);
+      },
+    });
+  });
+  $("#c").click(function () {
+    $.ajax({
+      url: "val3.txt",
+      success: function (data) {
+        $("#cp").after(data);
+        playerChoice(3);
+      },
+    });
+  });
+});
+
 //Realtid
 const timeP = document.querySelector("#realTime");
 const chatT = document.querySelector("#chatTime");
+
 // skapar interval med uppdatering av tiden
 // varje minut
 function updateTime() {
@@ -25,9 +56,8 @@ function realTime() {
 //och storleken på smsrutan ändras
 function onStartOB() {
   var optionPick = document.querySelector(".option-picker");
-  var chatbox = document.querySelector(".iphone-chat");
   var cp = document.querySelector("#cp");
-  if (optionPick.style.display == "none" && cp) {
+  if (optionPick.style.display == "none" && cp.style.display != "none") {
     addOB();
   } else {
     removeOB();
@@ -51,17 +81,19 @@ function removeOB() {
 }
 
 //Tar bort checkpoint
-function removeCheckPoint(val) {
+function removeCheckPoint() {
   document.querySelector("#cp").removeAttribute("id");
   removeOB();
 }
 
-var val1 = document.querySelector("#a");
-val1.addEventListener("click", removeCheckPoint);
-var val2 = document.querySelector("#b");
-val2.addEventListener("click", removeCheckPoint);
-var val3 = document.querySelector("#c");
-val3.addEventListener("click", removeCheckPoint);
+//Fortsätter utifrån vilket val spelaren gjorde
+function playerChoice(val) {
+  removeCheckPoint();
+  if (val == 1) {
+  } else if (val == 2) {
+  } else if (val == 3) {
+  }
+}
 
 realTime();
 updateTime();
