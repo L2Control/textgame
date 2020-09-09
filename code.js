@@ -117,6 +117,15 @@ function playerChoice(val) {
       document.querySelector("#c").value = "val6";
       document.querySelector("#c").innerHTML = "Val 6";
       break;
+    case 2:
+      document.querySelector("#a").value = "val4";
+      document.querySelector("#a").innerHTML = "Val 4";
+
+      document.querySelector("#b").value = "val5";
+      document.querySelector("#b").innerHTML = "Val 5";
+
+      document.querySelector("#c").value = "val6";
+      document.querySelector("#c").innerHTML = "Val 6";
   }
 }
 

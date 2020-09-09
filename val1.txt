@@ -1,5 +1,1 @@
-<p class=erica>123 test erica</p>
-<p class=me>okej??</p>
-<p class=erica>någon är utanför</p>
-<p class=me>oj nej</p>
-<p class=erica id=cp>vad ska jag göra?</p>
+<p class=erica>Val 1</p>
