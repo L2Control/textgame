@@ -6,13 +6,13 @@ $(document).ready(function () {
     },
   });
   $("#a").click(function () {
-    ajaxClick(this);
+    valClick(this);
   });
   $("#b").click(function () {
-    ajaxClick(this);
+    valClick(this);
   });
   $("#c").click(function () {
-    ajaxClick(this);
+    valClick(this);
   });
 });
 
@@ -130,7 +130,7 @@ function cpStopInterval() {
   clearInterval(aIntervId);
 }
 
-function ajaxClick(button) {
+function valClick(button) {
   let urlText = $(button).val();
   $.ajax({
     url: urlText + ".txt",
