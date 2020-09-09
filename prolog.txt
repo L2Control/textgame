@@ -11,7 +11,7 @@
 <p class="erica chatAni">Okej.. var är detta någonstans?</p>
 <p class="me chatAni">Det är i Lund!!!</p>
 <p class="erica chatAni">MEN HALLÅ JAG PLUGGAR <br>JU DÄR</p>
-<p class="me chatAni">Jo men ta det lugnt. Det finns ju tusentals studenter i Lund</p>
+<p class="me chatAni">Jo men ta det lugnt. Det finns <br> ju tusentals studenter i Lund</p>
 <p class="erica chatAni">Ja det är väl sant...</p>
 <p class="me chatAni">Så har du hittat på något<br> speciellt?</p>
 <p class="erica chatAni">Nej inte direkt... har varit fullt <br>fokus på svenskprovet</p>
@@ -23,11 +23,27 @@
 <p class="me chatAni">Var det en snygg kille??</p>
 <p class="erica chatAni">Nej tyvärr inte...</p>
 <p class="erica chatAni">Det var en förvirrad gammal <br> gubbe</p>
-<p class="me chatAni">Jaha det var ju tråkigt... Vad ville han då?</p>
+<p class="me chatAni">Jaha det var ju tråkigt... Vad <br> ville han då?</p>
 <p class="erica chatAni">Han var ny i området och <br> undrade var närmaste ICA <br>fanns</p>
 <p class="me chatAni">Okej haha</p>
 <p class="erica chatAni" style=margin-right:200px>Men du</p> 
 <p class="me chatAni">Ja?</p>
 <p class="erica chatAni">Jag måste skynda mig. <br>Har träning snart</p>
 <p class="me chatAni">Okej, vi hörs senare eller <br> imorgon</p>
-<p class="erica chatAni" id=cp>Det gör vi</p>
+<p class="erica chatAni">Det gör vi</p>
+<p class="chat-time chatAni center-later-erica">Nästa dag</p>
+<p class="erica chatAni">Det är sååå galet skönt att vara hemma själv. Man får göra vad man vill</p>
+<p class="erica chatAni">OCH man får se vilken film <br> man vill</p>
+<p class="erica chatAni">Har du sett Black Panther?</p>
+<p class="erica chatAni">En riktigt bra film!</p>
+<p class="me chatAni">Ja såklart jag har!</p>
+<p class="me chatAni">Den är sjukt bra!</p>
+<p class="erica chatAni">Ja lätt 5 av 5</p>
+<p class="erica chatAni">Tur att vi är på samma sida <br> annars vet jag inte vad <br> jag hade gjort</p>
+<p class="me chatAni">Ja det är väl tur det</p>
+<p class="me chatAni">Vad ska du hitta på nu när du <br> är hemma själv?</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="me chatAni">Hallå?</p>
+<p class="me chatAni">Haaaallååå???</p>
+<p class="erica chatAni">Förlåt</p>
+<p class="erica chatAni" id=cp>Tyckte jag hörde något<br>utanför...</p>

@@ -65,6 +65,7 @@ function realTime() {
   var time = h + ":" + m;
   timeP.textContent = time;
 }
+
 //Väntar till ett element har "end" class och isåfall visas valmöjligheterna
 //och storleken på smsrutan ändras
 function checkOB() {

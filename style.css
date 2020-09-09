@@ -175,16 +175,19 @@ p {
 .chat-time {
   text-align: center;
   color: grey;
-  margin-bottom: 3px;
 }
 
 .center-later-me {
   margin-right: 99px;
   float: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .center-later-erica {
   float: left;
-  margin-left: 99px;
+  margin-left: 128px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*Pick options*/
