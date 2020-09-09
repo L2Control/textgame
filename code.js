@@ -107,25 +107,27 @@ function removeCheckPoint() {
 function playerChoice(val) {
   let choice = parseInt(val.replace("val", ""));
   switch (choice) {
+    //Val 1 och 2 har ingen skillnad
     case 1:
-      document.querySelector("#a").value = "val4";
-      document.querySelector("#a").innerHTML = "Val 4";
+      document.querySelector("#a").value = "val1:1";
+      document.querySelector("#a").innerHTML = "Val 1:1";
 
-      document.querySelector("#b").value = "val5";
-      document.querySelector("#b").innerHTML = "Val 5";
+      document.querySelector("#b").value = "val1:2";
+      document.querySelector("#b").innerHTML = "Val 1:2";
 
       document.querySelector("#c").value = "val6";
       document.querySelector("#c").innerHTML = "Val 6";
       break;
+
     case 2:
-      document.querySelector("#a").value = "val4";
-      document.querySelector("#a").innerHTML = "Val 4";
+      document.querySelector("#a").value = "val2:1";
+      document.querySelector("#a").innerHTML = "Val 2:1";
 
-      document.querySelector("#b").value = "val5";
-      document.querySelector("#b").innerHTML = "Val 5";
+      document.querySelector("#b").value = "val2:2";
+      document.querySelector("#b").innerHTML = "Val 2:2";
 
-      document.querySelector("#c").value = "val6";
-      document.querySelector("#c").innerHTML = "Val 6";
+      document.querySelector("#c").value = "val2:3";
+      document.querySelector("#c").innerHTML = "Val 2:3";
   }
 }
 
