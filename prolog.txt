@@ -1,6 +1,6 @@
 <p class="me chatAni">Hej hur är det?</p>
-<p class="erica chatAni">Det är ritkigt bra idag faktiskt</p>
-<p class="erica chatAni">Fick ett B på svenska provet <br>och är väldigt nöjd</p>
+<p class="erica chatAni">Det är ritkigt bra idag <br>faktiskt</p>
+<p class="erica chatAni">Fick ett B på svenska<br>provet och är väldigt nöjd</p>
 <p class="me chatAni">Naaaajs! Låter riktigt bra</p>
 <p class="me chatAni">Du förresten!</p>
 <p class="me chatAni">Har du hört om vad som <br>hände igår??</p>
@@ -8,13 +8,13 @@
 <p class="me chatAni">Det är någon som går runt och mördar en massa studenter</p>
 <p class="erica chatAni">Är du seriös!?</p>
 <p class="me chatAni">JA DET ÄR HELT SJUKT</p>
-<p class="erica chatAni">Okej.. var är detta någonstans?</p>
+<p class="erica chatAni">Okej.. var är detta <br> någonstans?</p>
 <p class="me chatAni">Det är i Lund!!!</p>
-<p class="erica chatAni">MEN HALLÅ JAG PLUGGAR <br>JU DÄR</p>
-<p class="me chatAni">Jo men ta det lugnt. Det finns <br> ju tusentals studenter i Lund</p>
+<p class="erica chatAni">MEN HALLÅ JAG<br>PLUGGAR JU DÄR</p>
+<p class="me chatAni">Jo men ta det lugnt. Det<br>finns ju tusentals studenter i Lund</p>
 <p class="erica chatAni">Ja det är väl sant...</p>
 <p class="me chatAni">Så har du hittat på något<br> speciellt?</p>
-<p class="erica chatAni">Nej inte direkt... har varit fullt <br>fokus på svenskprovet</p>
+<p class="erica chatAni">Nej inte direkt... har varit<br>fullt fokus på svenskprovet</p>
 <p class="erica chatAni">Vänta lite någon ringde<br> på dörren</p>
 <p class="me chatAni">Okej</p>
 <p class="chat-time chatAni center-later-me">5 minuter senare</p>
@@ -41,7 +41,7 @@
 <p class="erica chatAni">Ja lätt 5 av 5</p>
 <p class="erica chatAni">Tur att vi är på samma sida <br> annars vet jag inte vad <br> jag hade gjort</p>
 <p class="me chatAni">Ja det är väl tur det</p>
-<p class="me chatAni">Vad ska du hitta på nu när du <br> är hemma själv?</p>
+<p class="me chatAni">Vad ska du hitta på nu när<br>du är hemma själv?</p>
 <p class="chat-time chatAni center-later-me">5 minuter senare</p>
 <p class="me chatAni">Hallå?</p>
 <p class="me chatAni">Haaaallååå???</p>

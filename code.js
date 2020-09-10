@@ -38,13 +38,13 @@ function sentMsg(str) {
       clearInterval(timer);
     }
     i++;
-  }, 500);
+  }, 250);
 }
 
 function scrollBot() {
   $(".iphone-chat").animate(
     { scrollTop: $(".iphone-chat").prop("scrollHeight") },
-    500
+    250
   );
 }
 //Realtid
@@ -90,7 +90,7 @@ function addOB() {
   var optionPick = document.querySelector(".option-picker");
   var chatbox = document.querySelector(".iphone-chat");
   optionPick.style.display = "block";
-  chatbox.style.height = "75%";
+  chatbox.style.height = "73%";
   scrollBot();
 }
 
