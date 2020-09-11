@@ -48,9 +48,6 @@
     top: 76%;
   }
 
-  option {
-    padding: 21px 0;
-  }
   .me {
     margin-left: 80px;
   }
@@ -63,7 +60,58 @@
 }
 
 /*iPhone 5/SE*/
-
+@media screen and (max-width: 350px){
+  option {
+    padding: 12px 0;
+  }
+  .center-later-me{
+    margin-right: 90px;
+  }
+  .center-later-erica{
+    margin-left: 130px;
+  }
+}
 /*iPhone 6/7/8*/
+@media screen and (max-width: 380px) and (min-width: 351px) and (max-height: 700px){
+  option {
+    padding: 16px 0;
+  }
+  .me{
+    margin-left: 90px;
+  }
+  .erica{
+    margin-right: 90px;
+  }
+}
 
 /*iPhone 6/7/8 Plus*/
+@media screen and (max-width: 420px) and (min-width: 381px){
+  option {
+    padding: 19px 0;
+  }
+  .erica{
+    margin-right: 105px
+  }
+  .me{
+    margin-left: 105px;
+  }
+  .center-later-me{
+    margin-right: 145px;
+  }
+  .center-later-erica{
+    margin-left: 170px;
+  }
+}
+
+/*iPhone X*/
+@media screen and (max-width: 400px) and (min-height: 800px){
+  option{
+    padding: 22px 0;
+  }
+  .me{
+    margin-left: 90px;
+  }
+  .erica{
+    margin-right: 90px;
+  }
+}
