@@ -16,6 +16,11 @@ $(document).ready(function () {
   });
 });
 
+function sendChosen(str) {
+  str = `<p class="me chatAni">${str}</p>`;
+  $("#start").before(str);
+}
+
 function sentMsg(str) {
   let chatArray = [],
     i = 0;
@@ -33,13 +38,13 @@ function sentMsg(str) {
       clearInterval(timer);
     }
     i++;
-  }, 2000);
+  }, 250);
 }
 
 function scrollBot() {
   $(".iphone-chat").animate(
     { scrollTop: $(".iphone-chat").prop("scrollHeight") },
-    2000
+    250
   );
 }
 //Realtid
@@ -85,7 +90,7 @@ function addOB() {
   var optionPick = document.querySelector(".option-picker");
   var chatbox = document.querySelector(".iphone-chat");
   optionPick.style.display = "block";
-  chatbox.style.height = "75%";
+  chatbox.style.height = "73%";
   scrollBot();
 }
 
@@ -105,27 +110,31 @@ function removeCheckPoint() {
 
 //Fortsätter utifrån vilket val spelaren gjorde
 function playerChoice(val) {
-  let choice = parseInt(val.replace("val", ""));
+  let choice = val.replace("val", "");
+  choice = parseInt(choice.replace(":", ""));
   switch (choice) {
+    //Om det är val 1
     case 1:
-      document.querySelector("#a").value = "val4";
-      document.querySelector("#a").innerHTML = "Val 4";
+      document.querySelector("#a").value = "val1:1";
+      document.querySelector("#a").innerHTML = "Ropa hallå!";
 
-      document.querySelector("#b").value = "val5";
-      document.querySelector("#b").innerHTML = "Val 5";
+      document.querySelector("#b").value = "val1:2";
+      document.querySelector("#b").innerHTML = "Låtsas att du inte är hemma";
 
-      document.querySelector("#c").value = "val6";
-      document.querySelector("#c").innerHTML = "Val 6";
+      document.querySelector("#c").value = "val1:3";
+      document.querySelector("#c").innerHTML = "Val 1:3";
       break;
+
+    //Om det är val 2
     case 2:
-      document.querySelector("#a").value = "val4";
-      document.querySelector("#a").innerHTML = "Val 4";
+      document.querySelector("#a").value = "val2:1";
+      document.querySelector("#a").innerHTML = "Lås ytterdörren";
 
-      document.querySelector("#b").value = "val5";
-      document.querySelector("#b").innerHTML = "Val 5";
+      document.querySelector("#b").value = "val2:2";
+      document.querySelector("#b").innerHTML = "Lås sovrumsdörren";
 
-      document.querySelector("#c").value = "val6";
-      document.querySelector("#c").innerHTML = "Val 6";
+      document.querySelector("#c").value = "val2:3";
+      document.querySelector("#c").innerHTML = "Hämta kniv";
   }
 }
 
@@ -142,11 +151,13 @@ function cpStopInterval() {
 
 function valClick(button) {
   let urlText = $(button).val();
+  let chosenMsg = $(button).text();
+  sendChosen(chosenMsg);
   $.ajax({
     url: urlText + ".txt",
     success: function (data) {
       //skickar ut de nya smsen från textfilen
-      $("#cp").after(data);
+      sentMsg(data);
 
       //kollar vilka de nya valen är beroende på föregående val
       playerChoice(urlText);
