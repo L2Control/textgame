@@ -38,13 +38,13 @@ function sentMsg(str) {
       clearInterval(timer);
     }
     i++;
-  }, 2000);
+  }, 250);
 }
 
 function scrollBot() {
   $(".iphone-chat").animate(
     { scrollTop: $(".iphone-chat").prop("scrollHeight") },
-    2000
+    250
   );
 }
 //Realtid
@@ -111,30 +111,31 @@ function removeCheckPoint() {
 //Fortsätter utifrån vilket val spelaren gjorde
 function playerChoice(val) {
   let choice = val.replace("val", "");
-  choice = parseInt(choice.replace(":", ""));
+  choice = parseInt(choice);
   switch (choice) {
     //Om det är val 1
     case 1:
-      document.querySelector("#a").value = "val1:1";
+      document.querySelector("#a").value = "val11";
       document.querySelector("#a").innerHTML = "Ropa hallå!";
 
-      document.querySelector("#b").value = "val1:2";
+      document.querySelector("#b").value = "val12";
       document.querySelector("#b").innerHTML = "Låtsas att du inte är hemma";
 
-      document.querySelector("#c").value = "val1:3";
-      document.querySelector("#c").innerHTML = "Val 1:3";
+      document.querySelector("#c").value = "val13";
+      document.querySelector("#c").innerHTML = "Gå och öppna dörren och kolla";
       break;
 
     //Om det är val 2
     case 2:
-      document.querySelector("#a").value = "val2:1";
-      document.querySelector("#a").innerHTML = "Lås ytterdörren";
+      document.querySelector("#a").value = "val21";
+      document.querySelector("#a").innerHTML = "Spring och lås ytterdörren";
 
-      document.querySelector("#b").value = "val2:2";
-      document.querySelector("#b").innerHTML = "Lås sovrumsdörren";
+      document.querySelector("#b").value = "val22";
+      document.querySelector("#b").innerHTML = "Fort! Lås sovrumsdörren";
 
-      document.querySelector("#c").value = "val2:3";
-      document.querySelector("#c").innerHTML = "Hämta kniv";
+      document.querySelector("#c").value = "val23";
+      document.querySelector("#c").innerHTML = "Hämta kniv i köket!";
+      break;
   }
 }
 

@@ -1,1 +1,10 @@
-<p class=erica>Val 1</p>
+
+<p class="erica chatAni">Ja sant. Kan ju vara att <br> jag bara inbillar mig</p>
+
+<p class="me chatAni">Ja det är nog bara det</p>
+<p class="me chatAni">Vad ska du hitta på i helgen då?</p>
+<p class="erica chatAni">HALLÅ</p>
+<p class="erica chatAni">DET LÅTER SOM OM <br> NÅGON FÖRSÖKER BRYTA SIG IN</p>
+<p class="me chatAni">Seriöst?!?</p>
+<p class="erica chatAni" id=cp>VAD SKA JAG GÖRA?!?</p>
+
