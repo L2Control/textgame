@@ -136,6 +136,30 @@ function playerChoice(val) {
       document.querySelector("#c").value = "val23";
       document.querySelector("#c").innerHTML = "Hämta kniv i köket!";
       break;
+
+    //Val 1:1
+    case 11:
+      break;
+
+    //Val 1:2
+    case 12:
+      break;
+
+    //Val 1:3
+    case 13:
+      break;
+
+    //Val 2:1
+    case 21:
+      break;
+
+    //Val 2:2
+    case 22:
+      break;
+
+    //Val 2:3
+    case 23:
+      break;
   }
 }
 
