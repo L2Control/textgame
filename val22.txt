@@ -1,0 +1,10 @@
+<p class="erica chatAni">okej okej den är stängd och låst nu</p>
+<p class="me chatAni">Finns det något på ditt rum som du kan använda mot honom?</p>
+<p class="erica chatAni">Hittar inget användbart hjälp!!! hjälp!!!</p>
+<p class="erica chatAni">Vad ska jag göra?</p>
+<p class="me chatAni">*** är du säker att där inte är något som du kan ta?</p>
+<p class="me chatAni">Ett glas</p>
+<p class="me chatAni">En flaska</p>
+<p class="me chatAni"></p>
+<p class="me chatAni">NÅGOT!!</p>
+<p class="erica chatAni" id=cp>Nej men jag tror det finns ett basebollträ i ett annat rum</p>
