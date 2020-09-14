@@ -1,0 +1,10 @@
+<p class="erica chatAni">Okej jag går och kollar</p>
+<p class="chat-time chatAni center-later-me">1 minut senare</p>
+<p class="erica chatAni">Okej, det är en man utanför som<br>står och väntar på att jag ska öppna</p>
+<p class="me chatAni">Okej... det där är väldigt skumt</p>
+<p class="erica chatAni">EH JA?!?</p>
+<p class="erica chatAni">Jag har ingen aning<br>vad jag ska ta mig till</p>
+<p class="me chatAni">Ta det lugnt</p>
+<p class="me chatAni">Han knackade ju bara</p>
+<p class="erica chatAni">Jo du har väl en poäng...</p>
+<p class="erica chatAni" id=cp>Ska jag öppna?</p>

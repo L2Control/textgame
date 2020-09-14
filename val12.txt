@@ -18,4 +18,4 @@
 <p class="erica chatAni">LÅTER SOM OM HAN BANKAR MED NÅGOT</p>
 <p class="erica chatAni">ELLER BRYTER UPP DÖRREN</p>
 <p class="me chatAni">Okej... vi måste komma <br> på någon lösning på detta</p>
-<p class="erica chatAni" id=cps>JA HJÄLP MIG!!</p>
+<p class="erica chatAni" id=cp>JA HJÄLP MIG!!</p>
