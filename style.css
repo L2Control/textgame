@@ -155,6 +155,9 @@ p {
   margin-top: 5px;
 }
 
+#langtid {
+  margin-left: 50px;
+}
 /* ANIMERING AV CHAT BUBBLOR*/
 .chatAni {
   animation-name: chatbbl;

@@ -1,5 +1,5 @@
 <p class="erica chatAni">Okej, jag går ropa ut genom fönstret</p>
-<p class="chat-time chatAni center-later-erica">2 minuter senare</p>
+<p class="chat-time chatAni center-later-me">2 minuter senare</p>
 <p class="erica chatAni">Han sa att hans bil har strulat <br> och hans mobil är död och ville låna vår för att kunna ringa hem</p>
 <p class="me chatAni">Oj men stackarn... </p>
 <p class="erica chatAni">Ja det är riktigt synd om honom</p>
