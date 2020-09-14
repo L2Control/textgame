@@ -122,7 +122,7 @@ function playerChoice(val) {
       document.querySelector("#b").innerHTML = "Låtsas att du inte är hemma";
 
       document.querySelector("#c").value = "val13";
-      document.querySelector("#c").innerHTML = "Gå och öppna dörren och kolla";
+      document.querySelector("#c").innerHTML = "Gå till dörren och titta";
       break;
 
     //Om det är val 2
