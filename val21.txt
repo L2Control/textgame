@@ -1,0 +1,13 @@
+<p class="erica chatAni">Okej jag springer och gör det nu</p>
+<p class="erica chatAni">Han såg super läskig ut</p>
+<p class="me chatAni">Är han kvar?</p>
+<p class="erica chatAni">JAAAA!</p>
+<p class="erica chatAni">och han tittar rakt på mig....</p>
+<p class="erica chatAni">AaAAhHh</p>
+<p class="me chatAni">ta det lugnt du har ju låst dörren</p>
+<p class="erica chatAni">Ta det lugnt?!</p>
+<p class="erica chatAni">Han är ju på väg rakt mot dörren!</p>
+<p class="erica chatAni">AAaaAHhHH!</p>
+<p class="erica chatAni">Han försöker bryta upp dörren</p>
+<p class="me chatAni">Spring och göm dig!</p>
+<p class="erica chatAni">Vart?!</p>
