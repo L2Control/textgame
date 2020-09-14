@@ -31,7 +31,7 @@
 <p class="erica chatAni">Jag måste skynda mig. <br>Har träning snart</p>
 <p class="me chatAni">Okej, vi hörs senare eller <br> imorgon</p>
 <p class="erica chatAni">Det gör vi</p>
-<p class="chat-time chatAni center-later-erica">Nästa dag</p>
+<p class="chat-time chatAni center-later-erica">Några dagar senare</p>
 <p class="erica chatAni">Det är sååå galet skönt att vara hemma själv. Man får göra vad man vill</p>
 <p class="erica chatAni">OCH man får se vilken film <br> man vill</p>
 <p class="erica chatAni">Har du sett Black Panther?</p>

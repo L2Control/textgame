@@ -1,4 +1,8 @@
-<p class="erica chatAni">Okej, jag ska ropa</p>
-
-<p class="erica chatAni"></p>
-<p class="me chatAni"></p>
+<p class="erica chatAni">Okej, jag går ropa ut genom fönstret</p>
+<p class="chat-time chatAni center-later-erica">2 minuter senare</p>
+<p class="erica chatAni">Han sa att hans bil har strulat <br> och hans mobil är död och ville låna vår för att kunna ringa hem</p>
+<p class="me chatAni">Oj men stackarn... </p>
+<p class="erica chatAni">Ja det är riktigt synd om honom</p>
+<p class="me chatAni">Ska du släppa in honom?</p>
+<p class="erica chatAni">Jag vet inte...</p>
+<p class="erica chatAni" id=cp>Det är synd om honom, men det känns som om jag känner igen honom...</p>
