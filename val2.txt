@@ -1,1 +1,8 @@
-<p class=me> detta är val 2</p>
+<p class="erica chatAni">Okej jag går och kollar....</p>
+<p class="erica chatAni">Det ser ut som att det står någon i trädgården.</p>
+<p class="erica chatAni">Det ser ut som att det står någon i trädgården.</p>
+<p class="me chatAni">Står han i trädgården!?</p>
+<p class="me chatAni">Det känns lite läskigt.</p>
+<p class="erica chatAni">EEH JA!</p>
+<p class="erica chatAni">AH han tittar rakt på mig!</p>
+<p class="erica chatAni" id=cp>och han går rakt mot dörren!!</p>
