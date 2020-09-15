@@ -1,0 +1,7 @@
+<p class="erica chatAni">HAHAHA</p>
+<p class="erica chatAni">Hon trodde att hon var snabbare än MIG?!?</p>
+<p class="erica chatAni">Patetisk!!</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA</p>
