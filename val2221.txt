@@ -1,0 +1,6 @@
+<p class="erica chatAni">HAHAH</p>
+<p class="erica chatAni">han är helt medvetslös</p>
+<p class="me chatAni">Ring polisen så de kan komma och plocka upp honom</p>
+<p class="erica chatAni">polisen är här och hämtar honom</p>
+<p class="erica chatAni">vilken lättnad</p>
+<p class="erica chatAni" id=end>nu kan jag sova säkert i natt</p>
