@@ -1,0 +1,11 @@
+<p class="erica chatAni">Okej</p>
+<p class="me chatAni">du måste vara väldigt tyst så han inte märker dig</p>
+<p class="me chatAni">spring bara när du verkligen är säker på att du kan springa</p>
+<p class="me chatAni">ta rum till rum</p>
+<p class="me chatAni">tills du kommer fram till rätt rum</p>
+<p class="erica chatAni">okej ska försöka..</p>
+<p class="erica chatAni">jag lyckades komma fram och jag hittade basebollträet.</p>
+<p class="me chatAni">bra, använd det när han går förbi rummet</p>
+<p class="me chatAni">Ett hårt slag i bakhuvudet kan nog få ner han.</p>
+<p class="erica chatAni">ställer mig redo vid dörren</p>
+<p class="erica chatAni"id=cp>nu kommer han mot mig….</p>
