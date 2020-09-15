@@ -1,7 +1,7 @@
 <p class="erica chatAni">Jag skyndar mig dit...</p>
 <p class="erica chatAni">så nu är jag här..</p>
 <p class="erica chatAni">Nu då?!?</p>
-<p class="me chatAni">göm dig där.</p>
+<p class="me chatAni">göm dig där</p>
 <p class="me chatAni">Släck lamporna och stäng dörren</p>
 <p class="me chatAni">han måste ha minst misstankar om att du är där</p>
 <p class="erica chatAni">Jag hör han leta igenom alla rummen</p>
@@ -9,6 +9,6 @@
 <p class="me chatAni">För att han inte ska hitta dig</p>
 <p class="me chatAni">göm dig så länge det går.</p>
 <p class="erica chatAni">okej ska försöka...</p>
-<p class="erica chatAni">okej nu springer jag</p>
+<p class="erica chatAni">okej nu chansar jag och springer</p>
 <p class="me chatAni">OOOOHHH nej mitt batteri på mobilen kommer ta slut</p>
 <p class="me chatAni" id=cp>ERICAAAA!!</p>

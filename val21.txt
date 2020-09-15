@@ -2,7 +2,7 @@
 <p class="erica chatAni">Han såg super läskig ut</p>
 <p class="me chatAni">Är han kvar?</p>
 <p class="erica chatAni">JAAAA!</p>
-<p class="erica chatAni">och han tittar rakt på mig....</p>
+<p class="erica chatAni">och han tittar fortfarande rakt på mig....</p>
 <p class="erica chatAni">AaAAhHh</p>
 <p class="me chatAni">ta det lugnt du har ju låst dörren</p>
 <p class="erica chatAni">Ta det lugnt?!</p>
