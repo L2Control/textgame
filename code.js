@@ -170,17 +170,29 @@ function playerChoice(val) {
       break;
     
     //Val 1:1:2:1
-
-    //Val 1:1:2:2
-
-    //Val 1:1:2:3
-
-    //Val 1:1:2:3:1 (samma som 2:1:1)
-
-    //Val 1:1:2:3:2 (samma som 2:1:2)
-
-    //Val 1:1:2:3:3 (samma som 2:1:3)
+    case 1121:
+      break;
     
+    //Val 1:1:2:2
+    case 1122:
+      break;
+    
+    //Val 1:1:2:3
+    case 1123:
+      break;
+    
+    //Val 1:1:2:3:1 (samma som 2:1:1)
+    case 11231:
+      break;
+    
+    //Val 1:1:2:3:2 (samma som 2:1:2)
+    case 11232:
+      break;
+    
+    //Val 1:1:2:3:3 (samma som 2:1:3)
+    case 11233:
+      break;
+
     //Val 2:1
     case 21:
       break;
