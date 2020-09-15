@@ -184,18 +184,6 @@ function playerChoice(val) {
       document.querySelector("#c").value = "val223";
       document.querySelector("#c").innerHTML = "Hämta kniv";
       break;
-
-    //Val 2:3
-    case 23:
-      document.querySelector("#a").value = "val221";
-      document.querySelector("#a").innerHTML = "Göm dig under sängen";
-
-      document.querySelector("#b").value = "val222";
-      document.querySelector("#b").innerHTML = "Hämta basebollträ";
-
-      document.querySelector("#c").value = "val223";
-      document.querySelector("#c").innerHTML = "Hämta kniv";
-      break;
   }
 }
 
