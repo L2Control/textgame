@@ -184,6 +184,31 @@ function playerChoice(val) {
       document.querySelector("#c").value = "val223";
       document.querySelector("#c").innerHTML = "Hämta kniv";
       break;
+
+    //Val 1:1:1
+    case 111:
+      document.querySelector("#a").value = "val21";
+      document.querySelector("#a").innerHTML = "Lås ytterdörren";
+
+      document.querySelector("#b").value = "val1112";
+      document.querySelector("#b").innerHTML = "Stanna kvar i rummet";
+
+      document.querySelector("#c").value = "val1113";
+      document.querySelector("#c").innerHTML = "Släpp in honom";
+      break;
+
+    //Val 1:1:2
+    case 112:
+      document.querySelector("#a").value = "val1121";
+      document.querySelector("#a").innerHTML = "Stanna vid dörren och kolla";
+
+      document.querySelector("#b").value = "val1122";
+      document.querySelector("#b").innerHTML = "Öppna för honom";
+
+      document.querySelector("#c").value = "val1123";
+      document.querySelector("#c").innerHTML = "Gå tillbaka till ditt rum";
+      break;
+
   }
 }
 
