@@ -1,6 +1,3 @@
-<p class="erica chatAni"></p>
-<p class="me chatAni"></p>
-
 <p class="erica chatAni">Så vad ska jag göra nu?</p>
 <p class="me chatAni">Stanna där en stund</p>
 <p class="me chatAni">han vet förmodligen inte att du är där.</p>
