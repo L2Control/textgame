@@ -1,0 +1,8 @@
+<p class="erica chatAni">Okej, han borde väl försvinna snart</p>
+<p class="me chatAni">Ja exakt</p>
+<p class="erica chatAni">Ehhh</p>
+<p class="me chatAni">Erica</p>
+<p class="me chatAni">Vad är det??</p>
+<p class="erica chatAni">Jag tror det låter som om han<br>försöker bryta sig in nu</p>
+<p class="me chatAni">Skojar du??</p>
+<p class="erica chatAni" id=cp>NEJ! DET LÅTER SOM OM HAN ÄR<br> NÄSTAN INNE</p>
