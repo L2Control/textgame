@@ -139,94 +139,62 @@ function playerChoice(val) {
 
     //Val 1:1
     case 11:
+      document.querySelector("#a").value = "val111";
+      document.querySelector("#a").innerHTML = "Släpp inte in honom!";
+
+      document.querySelector("#b").value = "val112";
+      document.querySelector("#b").innerHTML = "Hjälp honom";
+
+      document.querySelector("#c").value = "val112";
+      document.querySelector("#c").innerHTML = "Kan ju inte skada att hjälpa honom";
       break;
 
     //Val 1:2
     case 12:
-      break;
+      document.querySelector("#a").value = "val121";
+      document.querySelector("#a").innerHTML = "Smyg fram och kolla";
 
-    //Val 1:3
-    case 13:
-      break;
+      document.querySelector("#b").value = "val122";
+      document.querySelector("#b").innerHTML = "Nej! Göm dig istället";
 
-    //Val 1:1:1
-    case 111:
-      break;
-
-    //Val 1:1:2
-    case 112:
-      break;
-    
-    //Val 1:1:1:1 (ska gå till samma som 2:1)
-    case 1111:
-      break;
-
-    //Val 1:1:1:2
-    case 1112:
-      break;
-    
-    //Val 1:1:1:3
-    case 1113:
-      break;
-    
-    //Val 1:1:2:1
-    case 1121:
-      break;
-    
-    //Val 1:1:2:2
-    case 1122:
-      break;
-    
-    //Val 1:1:2:3
-    case 1123:
-      break;
-    
-    //Val 1:1:2:3:1 (samma som 2:1:1)
-    case 11231:
-      break;
-    
-    //Val 1:1:2:3:2 (samma som 2:1:2)
-    case 11232:
-      break;
-    
-    //Val 1:1:2:3:3 (samma som 2:1:3)
-    case 11233:
+      document.querySelector("#c").value = "val123";
+      document.querySelector("#c").innerHTML = "Öppna dörren och kolla";
       break;
 
     //Val 2:1
     case 21:
+      document.querySelector("#a").value = "val211";
+      document.querySelector("#a").innerHTML = "Göm dig bakom soffan";
+
+      document.querySelector("#b").value = "val212";
+      document.querySelector("#b").innerHTML = "Göm dig på toaletten";
+
+      document.querySelector("#c").value = "val213";
+      document.querySelector("#c").innerHTML = "Göm dig under sängen";
       break;
 
     //Val 2:2
     case 22:
+      document.querySelector("#a").value = "val221";
+      document.querySelector("#a").innerHTML = "Göm dig under sängen";
+
+      document.querySelector("#b").value = "val222";
+      document.querySelector("#b").innerHTML = "Hämta basebollträ";
+
+      document.querySelector("#c").value = "val223";
+      document.querySelector("#c").innerHTML = "Hämta kniv";
       break;
 
     //Val 2:3
     case 23:
-      break;
+      document.querySelector("#a").value = "val221";
+      document.querySelector("#a").innerHTML = "Göm dig under sängen";
 
-    //Val 2:1:1
-    case 211:
-      break;
-    
-    //Val 2:1:2
-    case 212:
-      break;
+      document.querySelector("#b").value = "val222";
+      document.querySelector("#b").innerHTML = "Hämta basebollträ";
 
-    //Val 2:1:3
-    case 213:
-      break;
-    
-    //Val 2:2:1
-    case 221:
-      break;
-
-    //Val 2:3:1
-    case 231:
-      break;
-
-    //Val 2:1:3:1
-    case 2131:
+      document.querySelector("#c").value = "val223";
+      document.querySelector("#c").innerHTML = "Hämta kniv";
       break;
   }
 }
