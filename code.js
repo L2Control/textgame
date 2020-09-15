@@ -160,6 +160,26 @@ function playerChoice(val) {
     //Val 2:3
     case 23:
       break;
+
+    //Val 2:1:1
+    case 211:
+      break;
+    
+    //Val 2:1:2
+    case 212:
+      break;
+
+    //Val 2:1:3
+    case 213:
+      break;
+    
+    //Val 2:2:1
+    case 221:
+      break;
+
+    //Val 2:3:1
+    case 231:
+      break;
   }
 }
 

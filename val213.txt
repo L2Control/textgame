@@ -10,5 +10,7 @@
 <p class="me chatAni">göm dig så länge det går.</p>
 <p class="erica chatAni">okej ska försöka...</p>
 <p class="erica chatAni">okej nu chansar jag och springer</p>
-<p class="me chatAni">OOOOHHH nej mitt batteri på mobilen kommer ta slut</p>
-<p class="me chatAni" id=cp>ERICAAAA!!</p>
+<p class="chat-time chatAni center-later-me">1 minut senare</p>
+<p class="me chatAni" id=cp>ERICA ÄR DU DÄR?</p>
+<p class="erica chatAni">JA, MEN MIN MOBIL HÅLLER PÅ ATT DÖ</p>
+<p class="me chatAni" id=cp>ERICAAAA SKÄMTAR DU?</p>
