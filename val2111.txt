@@ -1,0 +1,6 @@
+<p class="erica chatAni">Är du säker?</p>
+<p class="me chatAni">Ja</p>
+<p class="me chatAni">lita på mig</p>
+<p class="erica chatAni">Då springer jag!</p>
+<p class="erica chatAni">Han såg mig och är efter mig</p>
+<p class="erica chatAni" id=cp>han är mycket snabbare än vad jag är</p>
