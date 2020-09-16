@@ -8,4 +8,10 @@
 <p class="me chatAni">bra, använd det när han går förbi rummet</p>
 <p class="me chatAni">Ett hårt slag i bakhuvudet kan nog få ner han.</p>
 <p class="erica chatAni">ställer mig redo vid dörren</p>
-<p class="erica chatAni"id=cp>nu kommer han mot mig….</p>
+<p class="erica chatAni">nu kommer han mot mig….</p>
+<p class="erica chatAni">HAHAH</p>
+<p class="erica chatAni">han är helt medvetslös</p>
+<p class="me chatAni">Ring polisen så de kan komma och plocka upp honom</p>
+<p class="erica chatAni">polisen är här och hämtar honom</p>
+<p class="erica chatAni">vilken lättnad</p>
+<p class="erica chatAni" id=end>nu kan jag sova säkert i natt</p>
