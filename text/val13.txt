@@ -7,4 +7,14 @@
 <p class="me chatAni">Ta det lugnt</p>
 <p class="me chatAni">Han knackade ju bara</p>
 <p class="erica chatAni">Jo du har väl en poäng...</p>
-<p class="erica chatAni" id=cp>Ska jag öppna?</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="me chatAni">Hallå Erica??</p>
+<p class="chat-time chatAni center-later-me">10 minuter senare</p>
+<p class="me chatAni">HÅLLÅ?!?? ERICA!?!?!</p>
+<p class="me chatAni">SVARA MIG!!</p>
+<p class="erica chatAni">Inget kan rädda Erica nu!</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA!</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
