@@ -1,0 +1,12 @@
+<p class="erica chatAni">Jag skyndar mig till köket...</p>
+<p class="erica chatAni">AAAAAAAHHHH han håller på att bryta sig in i huset!!</p>
+<p class="erica chatAni">jag hinner inte ta kniven</p>
+<p class="erica chatAni">AAaAAAaaAHhhHhHHhHhh</p>
+<p class="me chatAni">HÅLLÅ?!?? ERICA!?!?!</p>
+<p class="me chatAni">SVARA MIG!!</p>
+<p class="erica chatAni">Inget kan rädda Erica nu!</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA!</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
