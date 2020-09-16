@@ -1,0 +1,8 @@
+<p class="erica chatAni">Nu är polisen här!</p>
+<p class="erica chatAni">Han har märkt att de är här</p>
+<p class="erica chatAni">Han försöker springa iväg</p>
+<p class="erica chatAni">Yes! De fick honom</p>
+<p class="me chatAni">fick de?</p>
+<p class="me chatAni">Det måste vara en lättnad att veta att han inte kan komma åt dig längre</p>
+<p class="erica chatAni">Ja, Tack för all hjälp!</p>
+<p class="erica chatAni" id=end>Vi får prata mer om detta imorgon</p>
