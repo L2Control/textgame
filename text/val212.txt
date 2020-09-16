@@ -4,4 +4,12 @@
 <p class="erica chatAni">Han letar runt i huset efter mig</p>
 <p class="erica chatAni">Vad ska jag göra nu då?!?!</p>
 <p class="erica chatAni">JAG FÅR PANIK SNÄLLA HJÄLP</p>
-<p class="me chatAni" id=cp>okej okej låt mig tänka lite...</p>
+<p class="me chatAni">okej okej låt mig tänka lite...</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
