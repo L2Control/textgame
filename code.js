@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $.ajax({
-    url: "prolog.txt",
+    url: "text/prolog.txt",
     success: function (data) {
       sentMsg(data);
     },
@@ -146,7 +146,8 @@ function playerChoice(val) {
       document.querySelector("#b").innerHTML = "Hjälp honom";
 
       document.querySelector("#c").value = "val112";
-      document.querySelector("#c").innerHTML = "Kan ju inte skada att hjälpa honom";
+      document.querySelector("#c").innerHTML =
+        "Kan ju inte skada att hjälpa honom";
       break;
 
     //Val 1:2
@@ -209,6 +210,103 @@ function playerChoice(val) {
       document.querySelector("#c").innerHTML = "Gå tillbaka till ditt rum";
       break;
 
+    //Val 1:2:1
+    case 121:
+      document.querySelector("#a").value = "val11121123";
+      document.querySelector("#a").innerHTML = "Leta efter vapen";
+
+      document.querySelector("#b").value = "val122";
+      document.querySelector("#b").innerHTML = "Göm dig";
+
+      document.querySelector("#c").value = "val1123";
+      document.querySelector("#c").innerHTML = "Spring tillbaka till ditt rum";
+      break;
+
+    //Val 1:2:2
+    case 122:
+      document.querySelector("#a").value = "val212";
+      document.querySelector("#a").innerHTML = "Göm dig under sängen";
+
+      document.querySelector("#b").value = "val211";
+      document.querySelector("#b").innerHTML = "Göm dig bakom soffan";
+
+      document.querySelector("#c").value = "val213";
+      document.querySelector("#c").innerHTML = "Göm dig på toaletten";
+      break;
+
+    //Val 2:1:1
+    case 211:
+      document.querySelector("#a").value = "val2111";
+      document.querySelector("#a").innerHTML = "Spring ut och ring polisen!";
+
+      document.querySelector("#b").value = "val2112";
+      document.querySelector("#b").innerHTML =
+        "Nej, vi kan inte riskera något!";
+
+      document.querySelector("#c").value = "val2112";
+      document.querySelector("#c").innerHTML = "Nej, stanna kvar!";
+      break;
+
+    //Val 2:1:3
+    case 213:
+      document.querySelector("#a").value = "val2131";
+      document.querySelector("#a").innerHTML = "Ta dig ut ur ditt fönster";
+
+      document.querySelector("#b").value = "val2132";
+      document.querySelector("#b").innerHTML = "Stanna kvar där du är";
+
+      document.querySelector("#c").value = "val2132";
+      document.querySelector("#c").innerHTML = "Riskera inget!";
+      break;
+
+    //Val 2:2:1 FIXA
+    case 221:
+      document.querySelector("#a").value = "val";
+      document.querySelector("#a").innerHTML = "";
+
+      document.querySelector("#b").value = "val";
+      document.querySelector("#b").innerHTML = "";
+
+      document.querySelector("#c").value = "val";
+      document.querySelector("#c").innerHTML = "";
+      break;
+
+    //Val 1:1:1:2
+    case 1112:
+      document.querySelector("#a").value = "val11121";
+      document.querySelector("#a").innerHTML = "Ring polisen!";
+
+      document.querySelector("#b").value = "val212";
+      document.querySelector("#b").innerHTML = "Göm dig under sängen!";
+
+      document.querySelector("#c").value = "val11123";
+      document.querySelector("#c").innerHTML = "Ring dina föräldrar!";
+      break;
+
+    //Val 1:1:2:1
+    case 1121:
+      document.querySelector("#a").value = "val21";
+      document.querySelector("#a").innerHTML = "Lås ytterdörren!";
+
+      document.querySelector("#b").value = "val11212";
+      document.querySelector("#b").innerHTML = "Öppna dörren för honom";
+
+      document.querySelector("#c").value = "val11213";
+      document.querySelector("#c").innerHTML = "Gå tillbaka till sovrummet!";
+      break;
+
+    //Val 2:1:1:1
+    //FIXA
+    case 2111:
+      document.querySelector("#a").value = "val";
+      document.querySelector("#a").innerHTML = "";
+
+      document.querySelector("#b").value = "val";
+      document.querySelector("#b").innerHTML = "";
+
+      document.querySelector("#c").value = "val";
+      document.querySelector("#c").innerHTML = "";
+      break;
   }
 }
 
@@ -228,7 +326,7 @@ function valClick(button) {
   let chosenMsg = $(button).text();
   sendChosen(chosenMsg);
   $.ajax({
-    url: urlText + ".txt",
+    url: "text/" + urlText + ".txt",
     success: function (data) {
       //skickar ut de nya smsen från textfilen
       sentMsg(data);
