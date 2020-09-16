@@ -7,4 +7,3 @@
 <p class="erica chatAni">DET LÅTER SOM OM <br> NÅGON FÖRSÖKER BRYTA SIG IN</p>
 <p class="me chatAni">Seriöst?!?</p>
 <p class="erica chatAni" id=cp>VAD SKA JAG GÖRA?!?</p>
-
