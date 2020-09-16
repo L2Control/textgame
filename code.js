@@ -176,7 +176,7 @@ function playerChoice(val) {
 
     //Val 2:2
     case 22:
-      document.querySelector("#a").value = "val221";
+      document.querySelector("#a").value = "val213";
       document.querySelector("#a").innerHTML = "Göm dig under sängen";
 
       document.querySelector("#b").value = "val222";
@@ -237,7 +237,7 @@ function playerChoice(val) {
     //Val 2:1:1
     case 211:
       document.querySelector("#a").value = "val2111";
-      document.querySelector("#a").innerHTML = "Spring ut och ring polisen!";
+      document.querySelector("#a").innerHTML = "Spring ut!";
 
       document.querySelector("#b").value = "val2112";
       document.querySelector("#b").innerHTML =
@@ -259,10 +259,10 @@ function playerChoice(val) {
       document.querySelector("#c").innerHTML = "Riskera inget!";
       break;
 
-    //Val 2:2:1 FIXA
+    //Val 2:2:1
     case 221:
-      document.querySelector("#a").value = "val";
-      document.querySelector("#a").innerHTML = "";
+      document.querySelector("#a").value = "val2211";
+      document.querySelector("#a").innerHTML = "Ta dig ut ur fönstret";
 
       document.querySelector("#b").value = "val";
       document.querySelector("#b").innerHTML = "";
@@ -276,7 +276,7 @@ function playerChoice(val) {
       document.querySelector("#a").value = "val11121";
       document.querySelector("#a").innerHTML = "Ring polisen!";
 
-      document.querySelector("#b").value = "val212";
+      document.querySelector("#b").value = "val213";
       document.querySelector("#b").innerHTML = "Göm dig under sängen!";
 
       document.querySelector("#c").value = "val11123";
@@ -295,17 +295,88 @@ function playerChoice(val) {
       document.querySelector("#c").innerHTML = "Gå tillbaka till sovrummet!";
       break;
 
-    //Val 2:1:1:1
-    //FIXA
-    case 2111:
-      document.querySelector("#a").value = "val";
-      document.querySelector("#a").innerHTML = "";
+    //Val 1:1:1:2:1
+    case 11121:
+      document.querySelector("#a").value = "val111211";
+      document.querySelector("#a").innerHTML = "Göm dig under sängen!";
 
-      document.querySelector("#b").value = "val";
-      document.querySelector("#b").innerHTML = "";
+      document.querySelector("#b").value = "val111212";
+      document.querySelector("#b").innerHTML = "Ta dig ut genom fönstret!";
 
-      document.querySelector("#c").value = "val";
-      document.querySelector("#c").innerHTML = "";
+      document.querySelector("#c").value = "val111213";
+      document.querySelector("#c").innerHTML = "Leta efter ett nytt gömställe!";
+      break;
+
+    //Val 1:1:2:1:3
+    case 11213:
+      document.querySelector("#a").value = "val22";
+      document.querySelector("#a").innerHTML = "Lås sovrumsdörren!";
+
+      document.querySelector("#b").value = "val213";
+      document.querySelector("#b").innerHTML = "Göm dig under sängen!";
+
+      document.querySelector("#c").value = "val11121";
+      document.querySelector("#c").innerHTML = "Ring polisen!";
+      break;
+
+    //Val 1:1:1:2:1:1
+    case 111211:
+      document.querySelector("#a").value = "val1112111";
+      document.querySelector("#a").innerHTML = "Stanna kvar under sängen!";
+
+      document.querySelector("#b").value = "val1112112";
+      document.querySelector("#b").innerHTML = "Leta efter ett nytt gömställe!";
+
+      document.querySelector("#c").value = "val1112113";
+      document.querySelector("#c").innerHTML = "Ta dig ut ur fönstret!";
+      break;
+
+    //Val 1:1:1:2:1:3
+    case 111213:
+      document.querySelector("#a").value = "val1112131";
+      document.querySelector("#a").innerHTML = "Göm dig på toaletten!";
+
+      document.querySelector("#b").value = "val1112132";
+      document.querySelector("#b").innerHTML = "Spring tillbaka till ditt rum!";
+
+      document.querySelector("#c").value = "val1112132";
+      document.querySelector("#c").innerHTML = "Jag vet inte!";
+      break;
+
+    //Val 1:1:1:2:1:1:1
+    case 1112111:
+      document.querySelector("#a").value = "val11121111";
+      document.querySelector("#a").innerHTML = "Ta dig ut ur fönstret!";
+
+      document.querySelector("#b").value = "val11121112";
+      document.querySelector("#b").innerHTML = "Stanna kvar!";
+
+      document.querySelector("#c").value = "val11121112";
+      document.querySelector("#c").innerHTML = "Jag vet inte!";
+      break;
+
+    //Val 1:1:1:2:1:1:2
+    case 1112112:
+      document.querySelector("#a").value = "val11121121";
+      document.querySelector("#a").innerHTML = "Göm dig på toaletten!";
+
+      document.querySelector("#b").value = "val11121122";
+      document.querySelector("#b").innerHTML = "Tillbaka till sovrummet!";
+
+      document.querySelector("#c").value = "val11121123";
+      document.querySelector("#c").innerHTML = "Leta efter vapen!";
+      break;
+
+    //Val 1:1:1:2:1:1:2:3
+    case 11121123:
+      document.querySelector("#a").value = "val111211231";
+      document.querySelector("#a").innerHTML = "Hämta en vass sax!";
+
+      document.querySelector("#b").value = "val111211232";
+      document.querySelector("#b").innerHTML = "Hämta basebollträet!";
+
+      document.querySelector("#c").value = "val111211233";
+      document.querySelector("#c").innerHTML = "Kolla i köket efter kniv!";
       break;
   }
 }
