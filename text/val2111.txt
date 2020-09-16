@@ -3,4 +3,12 @@
 <p class="me chatAni">lita på mig</p>
 <p class="erica chatAni">Då springer jag!</p>
 <p class="erica chatAni">Han såg mig och är efter mig</p>
-<p class="erica chatAni" id=cp>han är mycket snabbare än vad jag är</p>
+<p class="erica chatAni">han är mycket snabbare än vad jag är</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
