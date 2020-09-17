@@ -1,3 +1,11 @@
+<p class="me chatAni">Stanna kvar där du är</p>
+<p class="me chatAni">han kan inte veta att du är där</p>
+<p class="erica chatAni">Oh nej han är påväg in i rummet</p>
+<p class="me chatAni">Bara stanna där du är</p>
+<p class="erica chatAni">ag tror han hörde mig!!</p>
+<p class="erica chatAni">detta är inte bra</p>
+<p class="erica chatAni">han letar runt i rummet efter mig</p>
+<p class="erica chatAni">AAAahaHhHah</p>
 <p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
 <p class="me chatAni">Erica???</p>
 <p class="me chatAni">Vad menar du??</p>
