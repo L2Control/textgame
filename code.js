@@ -38,13 +38,13 @@ function sentMsg(str) {
       clearInterval(timer);
     }
     i++;
-  }, 250);
+  }, 2000);
 }
 
 function scrollBot() {
   $(".iphone-chat").animate(
     { scrollTop: $(".iphone-chat").prop("scrollHeight") },
-    250
+    2000
   );
 }
 //Realtid
