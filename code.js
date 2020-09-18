@@ -224,13 +224,13 @@ function playerChoice(val) {
 
     //Val 1:2:2
     case 122:
-      document.querySelector("#a").value = "val212";
+      document.querySelector("#a").value = "val213";
       document.querySelector("#a").innerHTML = "Göm dig under sängen";
 
       document.querySelector("#b").value = "val211";
       document.querySelector("#b").innerHTML = "Göm dig bakom soffan";
 
-      document.querySelector("#c").value = "val213";
+      document.querySelector("#c").value = "val212";
       document.querySelector("#c").innerHTML = "Göm dig på toaletten";
       break;
 
