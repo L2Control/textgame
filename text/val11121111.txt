@@ -4,7 +4,7 @@
 <p class="me chatAni">Öppna fönstret och spring</p>
 <p class="erica chatAni">DET ÄR JU JÄTTEHÖGT</p>
 <p class="me chatAni">Du måste hoppa</p>
-<p class="me chatAni">Försök att landa ihop böjd</p>
+<p class="me chatAni">Försök att landa ihopböjd</p>
 <p class="me chatAni">Då gör det inte lika ont</p>
 <p class="me chatAni">Erica??</p>
 <p class="me chatAni">ERICAAAA</p>
