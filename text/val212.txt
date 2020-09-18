@@ -13,4 +13,14 @@
 <p class="chat-time chatAni center-later-me">1 minut senare</p>
 <p class="me chatAni">ERICA ÄR DU DÄR?</p>
 <p class="erica chatAni">JA, MEN MIN MOBIL HÅLLER PÅ ATT DÖ</p>
-<p class="me chatAni" id=cp>ERICAAAA SKÄMTAR DU?</p>
+<p class="me chatAni">ERICAAAA SKÄMTAR DU?</p>
+
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
