@@ -1,0 +1,9 @@
+<p class="erica chatAni">Okej är du säker?</p>
+<p class="me chatAni">Ja, det är nog det smartaste<br>du kan göra</p>
+<p class="erica chatAni">Okej, jag litar på dig</p>
+<p class="erica chatAni">Han är precis utanför mitt rum nu</p>
+<p class="me chatAni">Försök att vara så tyst som möjligt</p>
+<p class="erica chatAni">Okej han fortsätter vidare<br>till nästa rum</p>
+<p class="erica chatAni">Nu har jag en chans att springa!</p>
+<p class="me chatAni">Nej vänta...</p>
+<p class="me chatAni" id=cp>Låt mig tänka...</p>
