@@ -259,18 +259,6 @@ function playerChoice(val) {
       document.querySelector("#c").innerHTML = "Riskera inget!";
       break;
 
-    //Val 2:2:1
-    case 221:
-      document.querySelector("#a").value = "val2211";
-      document.querySelector("#a").innerHTML = "Ta dig ut ur fönstret";
-
-      document.querySelector("#b").value = "val";
-      document.querySelector("#b").innerHTML = "";
-
-      document.querySelector("#c").value = "val";
-      document.querySelector("#c").innerHTML = "";
-      break;
-
     //Val 1:1:1:2
     case 1112:
       document.querySelector("#a").value = "val11121";
