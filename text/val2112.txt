@@ -1,3 +1,11 @@
+<p class="me chatAni">Nej, stanna kvar där du är!</p>
+<p class="erica chatAni">Vad ska jag då göras här?</p>
+<p class="me chatAni">Se om du kan ringa polisen när han inte är i närheten</p>
+<p class="erica chatAni">Okej, jag får vänta tills han kollar något annat rum</p>
+<p class="erica chatAni">Nu är han i ett annat rum</p>
+<p class="erica chatAni">Ringer polisen Nu</p>
+<p class="erica chatAni">De är påväg Nu</p>
+<p class="me chatAni">Hoppas de hinner dit i tid</p>
 <p class="erica chatAni">Nu är polisen här!</p>
 <p class="erica chatAni">Han har märkt att de är här</p>
 <p class="erica chatAni">Han försöker springa iväg</p>
