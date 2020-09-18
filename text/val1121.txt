@@ -1,0 +1,8 @@
+<p class="erica chatAni">Han frågar mimg om jag kan komma ut och hjälpa honom</p>
+<p class="me chatAni">Hur känner du för det då?</p>
+<p class="erica chatAni">Jag vet vet inte...</p>
+<p class="erica chatAni">Är lite osäker faktiskt</p>
+<p class="me chatAni">Varfdör det?</p>
+<p class="erica chatAni">Han ser lite läskig och skumm ut</p>
+<p class="erica chatAni">mne ja....</p>
+<p class="me chatAni" id=cp>Ja det finns några saker du kan göra</p>
