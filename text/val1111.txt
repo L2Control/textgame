@@ -1,6 +1,0 @@
-<p class="erica chatAni">Okej jag har låst dörren nu</p>
-<p class="me chatAni">Är han kvar?</p>
-<p class="erica chatAni">Ja...</p>
-<p class="erica chatAni">NEJ HJÄLP</p>
-<p class="erica chatAni">NU FÖRSÖKER HAN BRYTA SIG IN</p>
-<p class="erica chatAni" id=cp>HAN BRYTER UPP DÖRREN!</p>
