@@ -1,0 +1,9 @@
+<p class="erica chatAni">Okej, jag ringer polisen</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="erica chatAni">Så nu har jag ringt och de är påväg</p>
+<p class="me chatAni">Bra, nu behöver du inte oroa dig mer</p>
+<p class="erica chatAni">EH JO</p>
+<p class="erica chatAni">DET LÅTER SOM HAN HAR BRYTIT SIG IN</p>
+<p class="me chatAni">SKOJAR DU???</p>
+<p class="erica chatAni">NEJ HAN ÄR INNE I HUSET</p>
+<p class="erica chatAni" id=cp>VAD SKA JAG GÖRA??</p>
