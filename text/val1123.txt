@@ -1,0 +1,6 @@
+<p class="erica chatAni">Det är nog ett bra val</p>
+<p class="erica chatAni">Han ser ju ganska läskig ut</p>
+<p class="me chatAni">Vi måste vara på den säkra sidan</p>
+<p class="erica chatAni">ja exakt</p>
+<p class="me chatAni">Han försvinner nog snart när han inser att han inte få någon hjälp</p>
+<p class="erica chatAni">Det tror jag också</p>
