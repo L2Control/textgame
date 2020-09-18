@@ -1,0 +1,2 @@
+<p class="erica chatAni">Okej...</p>
+<p class="erica chatAni" id=cp>Kommer du på något jag kan<br>använda som vapen?</p>

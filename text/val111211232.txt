@@ -1,0 +1,16 @@
+<p class="erica chatAni">Okej jag tror den finns i ett<br>rum i närheten</p>
+<p class="me chatAni">Okej... var försiktig</p>
+<p class="erica chatAni">NEJ HAN SÅG MIG</p>
+<p class="me chatAni">SPRING FORT</p>
+<p class="chat-time chatAni center-later-me">10 minuter senare</p>
+<p class="me chatAni">Hallå?!?!</p>
+<p class="me chatAni">ERICA??</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>

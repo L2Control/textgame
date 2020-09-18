@@ -1,0 +1,27 @@
+<p class="erica chatAni">Tror jag har en vass sax i mitt rum</p>
+<p class="me chatAni">Okej bra skynda dig att<br>smyga tillbaka in</p>
+<p class="chat-time chatAni center-later-me">2 minuter senare</p>
+<p class="erica chatAni">Ja där hittade jag den!</p>
+<p class="me chatAni">Bra!</p>
+<p class="me chatAni">Nu behöver du bara gömma dig</p>
+<p class="erica chatAni">Vart?</p>
+<p class="me chatAni">Göm dig precis bakom dörren<br>in till sovrummet</p>
+<p class="erica chatAni">Okej</p>
+<p class="me chatAni">Och så fort du märker han kommer<br>så hugg hårt med saxen mot honom</p>
+<p class="erica chatAni">Okej... jag hör att han är<br>påväg mot mig nu...</p>
+<p class="chat-time chatAni center-later-me">2 minuter senare</p>
+<p class="erica chatAni">åh nej... vad har jag gjort...</p>
+<p class="me chatAni">Vad är det Erica??</p>
+<p class="erica chatAni">Jag högg honom med saxen och nu<br>ligger han precis vid mig och förblöder</p>
+<p class="me chatAni">Erica det är lugnt</p>
+<p class="me chatAni">Det var antingen du eller han</p>
+<p class="me chatAni">Det var i självförsvar</p>
+<p class="erica chatAni">Jag vet inte vad jag ska säga...</p>
+<p class="erica chatAni">jag saakaar jättrmucket</p>
+<p class="me chatAni">Va?/p>
+<p class="erica chatAni">Jag</p>
+<p class="erica chatAni">Skakar</p>
+<p class="me chatAni">ahaaa/p>
+<p class="erica chatAni">Jättemycket</p>
+<p class="me chatAni">Oroa dig inte</p>
+<p class="me chatAni" id=end>Polisen kommer snart och hjälper dig/p>
