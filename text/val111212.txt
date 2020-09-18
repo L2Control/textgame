@@ -6,7 +6,7 @@
 <p class="me chatAni">Hallå?!?!</p>
 <p class="me chatAni">Vart tog du vägen?</p>
 <p class="me chatAni">kom du ut?</p>
-<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="erica chatAni">Ni trodde ni kunde gömma er från mig</p>
 <p class="me chatAni">Erica???</p>
 <p class="me chatAni">Vad menar du??</p>
 <p class="erica chatAni">HAHAHAHAHAH</p>

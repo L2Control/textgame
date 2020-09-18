@@ -1,0 +1,21 @@
+<p class="erica chatAni">Okej jag springer dit</p>
+<p class="me chatAni">Glöm inte att låsa försiktigt</p>
+<p class="erica chatAni">Så... det är fixat</p>
+<p class="erica chatAni">Det låter som om han rör<br>sig mot toaletten</p>
+<p class="me chatAni">Erica ta det lugnt</p>
+<p class="erica chatAni">Han försöker öppna dörren!!</p>
+<p class="erica chatAni">NU FÖRSÖKER HAN BRYTA SIG IGENOM DÖRREN</p>
+<p class="erica chatAni">JAG TROR INTE DÖRREN KOMMER ATT HÅLLA</p>
+<p class="erica chatAni">VAD SKA JAG TA MIG TILL?!?</p>
+<p class="erica chatAni">JAG KOMMER ATT DÖ</p>
+<p class="erica chatAni">VÄNTA NU HÖR SIRENERNA</p>
+<p class="me chatAni">ÄR DET POLISEN??</p>
+<p class="erica chatAni">JA</p>
+<p class="erica chatAni">HAN SLUTADE FÖRSÖKA BRYTA UPP DÖRREN</p>
+<p class="erica chatAni">Tror att han försöker fly</p>
+<p class="me chatAni">Det är nog bäst om du stannar<br> på toaletten</p>
+<p class="chat-time chatAni center-later-me">10 minuter senare</p>
+<p class="erica chatAni">Tack för att du hjälpte mig</p>
+<p class="me chatAni">Ingen orsak. Jag är glad<br>att du klarade dig</p>
+<p class="me chatAni">Lyckades polisen att få tag på honom?</p>
+<p class="erica chatAni" id=end>Ja, och de tror även att det är<br>han som har gått runt och mördat massa studenter</p>

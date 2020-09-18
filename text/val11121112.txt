@@ -1,0 +1,18 @@
+<p class="erica chatAni">Okej låter bra</p>
+<p class="erica chatAni">Han rör sig mot rummet nu!</p>
+<p class="me chatAni">Försök att vara så tyst du kan</p>
+<p class="erica chatAni">JAG E RÄDD</p>
+<p class="erica chatAni">HJÄLP MIG</p>
+<p class="me chatAni">ERICA TA DET LUGNT</p>
+<p class="me chatAni">POLISEN ÄR PÅVÄG</p>
+<p class="me chatAni">VAR SÅ LUGN OCH TYST DU KAN</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="me chatAni">ERICAA??</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
