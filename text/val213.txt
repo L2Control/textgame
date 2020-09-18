@@ -1,16 +1,15 @@
-<p class="erica chatAni">Jag skyndar mig dit...</p>
-<p class="erica chatAni">så nu är jag här..</p>
-<p class="erica chatAni">Nu då?!?</p>
-<p class="me chatAni">göm dig där</p>
-<p class="me chatAni">Släck lamporna och stäng dörren</p>
-<p class="me chatAni">han måste ha minst misstankar om att du är där</p>
-<p class="erica chatAni">Jag hör han leta igenom alla rummen</p>
-<p class="me chatAni">Spring in i ett rum han redan har letat i</p>
-<p class="me chatAni">För att han inte ska hitta dig</p>
-<p class="me chatAni">göm dig så länge det går.</p>
-<p class="erica chatAni">okej ska försöka...</p>
-<p class="erica chatAni">okej nu chansar jag och springer</p>
-<p class="chat-time chatAni center-later-me">1 minut senare</p>
-<p class="me chatAni" id=cp>ERICA ÄR DU DÄR?</p>
-<p class="erica chatAni">JA, MEN MIN MOBIL HÅLLER PÅ ATT DÖ</p>
-<p class="me chatAni" id=cp>ERICAAAA SKÄMTAR DU?</p>
+<p class="erica chatAni">ok...</p>
+<p class="erica chatAni">Nu är jag under sängen</p>
+<p class="me chatAni">Okej bra</p>
+<p class="erica chatAni">Han letar runt i huset efter mig</p>
+<p class="erica chatAni">Vad ska jag göra nu då?!?!</p>
+<p class="erica chatAni">JAG FÅR PANIK SNÄLLA HJÄLP</p>
+<p class="me chatAni">okej okej låt mig tänka lite...</p>
+<p class="erica chatAni">Ni trodde ni kunde komma undan mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>

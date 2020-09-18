@@ -1,0 +1,7 @@
+<p class="erica chatAni">ok...</p>
+<p class="erica chatAni">Nu är jag under sängen</p>
+<p class="me chatAni">Okej bra</p>
+<p class="erica chatAni">Han letar runt i huset efter mig</p>
+<p class="erica chatAni">Vad ska jag göra nu då?!?!</p>
+<p class="erica chatAni">JAG FÅR PANIK SNÄLLA HJÄLP</p>
+<p class="me chatAni" id=cp>okej okej låt mig tänka lite...</p>
