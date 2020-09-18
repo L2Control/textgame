@@ -1,0 +1,8 @@
+<p class="erica chatAni">Oekj...</p>
+<p class="erica chatAni">men vart ska jag springa och gömma mig?</p>
+<p class="erica chatAni">Det finns liksom massa rum att gömma sig i</p>
+<p class="me chatAni">Vet du något rum som kan vara bra?</p>
+<p class="erica chatAni">Badrummet kanske</p>
+<p class="me chatAni">Hmmm...</p>
+<p class="me chatAni">kanske</p>
+<p class="me chatAni" id=cp>Låt mig tänka en liten stund</p>

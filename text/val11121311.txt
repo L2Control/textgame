@@ -1,0 +1,16 @@
+<p class="me chatAni">gör så lite ljud som möjligt</p>
+<p class="me chatAni">han kanske hör dig annars</p>
+<p class="erica chatAni">Jag börjar få panik</p>
+<p class="erica chatAni">han är utanför</p>
+<p class="erica chatAni">Dörren öppnas......</p>
+<p class="me chatAni">Erica?!?</p>
+<p class="erica chatAni">Jag tror jag hör sirener</p>
+<p class="erica chatAni">Nu är polisen här!</p>
+<p class="erica chatAni">Han har märkt att de är här</p>
+<p class="erica chatAni">Han försöker springa iväg</p>
+<p class="chat-time chatAni center-later-me">2 minuter senare</p>
+<p class="erica chatAni">Yes! De fick honom</p>
+<p class="me chatAni">fick de?</p>
+<p class="me chatAni">Det måste vara en lättnad att veta att han inte kan komma åt dig längre</p>
+<p class="erica chatAni">Ja, Tack för all hjälp!</p>
+<p class="erica chatAni" id=end>Vi får prata mer om detta imorgon</p>

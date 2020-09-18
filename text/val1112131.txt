@@ -1,0 +1,9 @@
+<p class="me chatAni">Jag tror det är nog det bästa alternativet</p>
+<p class="erica chatAni">Springer ditt innan han märker något</p>
+<p class="me chatAni">Har du kommit fram än?</p>
+<p class="erica chatAni">Ja jag är framme nu</p>
+<p class="erica chatAni">Nu då?!?</p>
+<p class="me chatAni">göm dig där</p>
+<p class="me chatAni">Släck lamporna och stäng dörren</p>
+<p class="me chatAni">han måste ha minst misstankar om att du är där</p>
+<p class="erica chatAni" id=cp>Jag hör han leta igenom alla rummen</p>

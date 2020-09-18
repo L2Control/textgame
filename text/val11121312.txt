@@ -1,0 +1,18 @@
+<p class="me chatAni">Vi kan inte riskera att han ser dig</p>
+<p class="erica chatAni">Okej jag går tillbaka in i rummet</p>
+<p class="erica chatAni">Vad ska jag göra nu då?</p>
+<p class="me chatAni">se om du kan hitta något du kan använda</p>
+<p class="me chatAni">Du måste ju ha något</p>
+<p class="erica chatAni">Nej jag har inget jag kommer på nu</p>
+<p class="erica chatAni">Jag vet inte vad jag ska göra!</p>
+<p class="erica chatAni">Jag hör han gå mot mitt rum</p>
+<p class="me chatAni">Oh nej göm dig!</p>
+<p class="chat-time chatAni center-later-me">1 minut senare</p>
+<p class="erica chatAni">Ni trodde ni kunde gömma er från mig</p>
+<p class="me chatAni">Erica???</p>
+<p class="me chatAni">Vad menar du??</p>
+<p class="erica chatAni">HAHAHAHAHAH</p>
+<p class="erica chatAni">DU</p>
+<p class="erica chatAni">ÄR</p>
+<p class="erica chatAni">NÄSTA</p>
+<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
