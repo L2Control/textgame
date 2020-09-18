@@ -1,0 +1,4 @@
+<p class="erica chatAni">Då måste jag skynda mig</p>
+<p class="erica chatAni">Han är påväg mot mitt rum</p>
+<p class="me chatAni">Skynda dig då!!</p>
+<p class="me chatAni">Öppna fönstret och spring</p>

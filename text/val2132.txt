@@ -1,4 +1,3 @@
-<p class="me chatAni">Stanna kvar där du är</p>
 <p class="me chatAni">han kan inte veta att du är där</p>
 <p class="erica chatAni">Oh nej han är påväg in i rummet</p>
 <p class="me chatAni">Bara stanna där du är</p>

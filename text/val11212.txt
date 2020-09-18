@@ -1,4 +1,3 @@
-<p class="me chatAni">Öppna dörren</p>
 <p class="me chatAni">Gå ut och hjälp honom med hans bil</p>
 <p class="erica chatAni">mmmmmm...</p>
 <p class="erica chatAni">Okej då..</p>
