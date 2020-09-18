@@ -2,3 +2,22 @@
 <p class="erica chatAni">Han är påväg mot mitt rum</p>
 <p class="me chatAni">Skynda dig då!!</p>
 <p class="me chatAni">Öppna fönstret och spring</p>
+<p class="erica chatAni">DET ÄR JU JÄTTEHÖGT</p>
+<p class="me chatAni">Du måste hoppa</p>
+<p class="me chatAni">Försök att landa ihop böjd</p>
+<p class="me chatAni">Då gör det inte lika ont</p>
+<p class="me chatAni">Erica??</p>
+<p class="me chatAni">ERICAAAA</p>
+<p class="chat-time chatAni center-later-me">2 minuter senare</p>
+<p class="erica chatAni">Det gjorde lite ont men det gick bra</p>
+<p class="erica chatAni">Jag har sprungit över till grannen</p>
+<p class="me chatAni">Okej vad bra. Du skrämde mig där</p>
+<p class="erica chatAni">Jag hör sirenerna från<br>polisen nu</p>
+<p class="erica chatAni">Och nu ser jag dem</p>
+<p class="chat-time chatAni center-later-me">5 minuter senare</p>
+<p class="erica chatAni">De hittade inte honom...</p>
+<p class="me chatAni">Skojar du?</p>
+<p class="erica chatAni">Nej...</p>
+<p class="erica chatAni">Han måste ha rymt så fort han<br> hörde sirenerna</p>
+<p class="me chatAni">Så störigt</p>
+<p class="me chatAni" id=end>Men det viktigaste är att<br>du är oskadd</p>
