@@ -44,7 +44,7 @@ function sentMsg(str) {
 function scrollBot() {
   $(".iphone-chat").animate(
     { scrollTop: $(".iphone-chat").prop("scrollHeight") },
-    2000
+    1500
   );
 }
 //Realtid
@@ -72,7 +72,7 @@ function realTime() {
   timeP.textContent = time;
 }
 
-//Väntar till ett element har "end" class och isåfall visas valmöjligheterna
+//Väntar till ett element har "cp" class och isåfall visas valmöjligheterna
 //och storleken på smsrutan ändras
 function checkOB() {
   var optionPick = document.querySelector(".option-picker");
@@ -81,12 +81,10 @@ function checkOB() {
   try {
     if (optionPick.style.display == "none" && cp.style.display != "none") {
       addOB();
-      clearInterval(aIntervId);
     } else {
       removeOB();
     }
-  } catch (error) {
-  }
+  } catch (error) {}
 }
 
 function checkEND() {
@@ -100,20 +98,16 @@ function checkEND() {
     if (end.style.display != "none") {
       body.style.background = "black";
       iphone.style.opacity = 0.2;
-      endTitle.innerText = "Game Over"
+      endTitle.innerText = "Game Over";
       body.insertBefore(endTitle, iphone);
-
     } else if (bEnd.style.display != "none") {
       body.style.background = "black";
       iphone.style.opacity = 0.2;
     }
-  } catch (error) {
-
-  }
+  } catch (error) {}
 }
 //Visar valen
 function addOB() {
-  clearInterval();
   var optionPick = document.querySelector(".option-picker");
   var chatbox = document.querySelector(".iphone-chat");
   optionPick.style.display = "block";
@@ -396,17 +390,6 @@ function playerChoice(val) {
   }
 }
 
-var aIntervId;
-//Interval för att kolla efter checkpoint
-function cpInterval() {
-  aIntervId = setInterval(checkOB, 1000 * 1);
-}
-
-//Stoppar intervallet
-function cpStopInterval() {
-  clearInterval(aIntervId);
-}
-
 function valClick(button) {
   let urlText = $(button).val();
   let chosenMsg = $(button).text();
@@ -422,9 +405,6 @@ function valClick(button) {
 
       //tar bort gamla checkpoint
       removeCheckPoint();
-
-      //Skapar nytt intervall för checkpoint sökaren
-      cpInterval();
 
       //Tar "selected" tillbaka till default (inget)
       $(".option-picker").val($(".option-picker").data("default-value"));
