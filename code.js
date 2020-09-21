@@ -53,7 +53,8 @@ const timeP = document.querySelector("#realTime");
 // skapar interval med uppdatering av tiden
 // varje minut
 function updateTime() {
-  nIntervId = setInterval(realTime, 1000 * 1);
+  nIntervId = setInterval(realTime, 1000);
+  eIntervId = setInterval(checkEND, 15000);
 }
 
 //kollar tiden och sätter den i statusbaren
@@ -76,14 +77,40 @@ function realTime() {
 function checkOB() {
   var optionPick = document.querySelector(".option-picker");
   var cp = document.querySelector("#cp");
-  if (optionPick.style.display == "none" && cp.style.display != "none") {
-    addOB();
-    clearInterval(aIntervId);
-  } else {
-    removeOB();
+
+  try {
+    if (optionPick.style.display == "none" && cp.style.display != "none") {
+      addOB();
+      clearInterval(aIntervId);
+    } else {
+      removeOB();
+    }
+  } catch (error) {
   }
 }
 
+function checkEND() {
+  var end = document.querySelector("#end");
+  var bEnd = document.querySelector("#bEnd");
+  var iphone = document.querySelector(".iphone");
+  var body = document.body;
+  var endTitle = document.createElement("h2");
+  endTitle.className = "endtitle";
+  try {
+    if (end.style.display != "none") {
+      body.style.background = "black";
+      iphone.style.opacity = 0.2;
+      endTitle.innerText = "Game Over"
+      body.insertBefore(endTitle, iphone);
+
+    } else if (bEnd.style.display != "none") {
+      body.style.background = "black";
+      iphone.style.opacity = 0.2;
+    }
+  } catch (error) {
+
+  }
+}
 //Visar valen
 function addOB() {
   clearInterval();
