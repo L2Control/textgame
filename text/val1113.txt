@@ -12,4 +12,4 @@
 <p class="erica chatAni">DU</p>
 <p class="erica chatAni">ÄR</p>
 <p class="erica chatAni">NÄSTA!</p>
-<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
+<p class="erica chatAni" id=bEnd>HAHAHAHAHAHA!!</p>

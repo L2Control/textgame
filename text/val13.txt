@@ -1,6 +1,6 @@
 <p class="erica chatAni">Okej jag går och kollar</p>
 <p class="chat-time chatAni center-later-me">1 minut senare</p>
-<p class="erica chatAni">Okej, det är en man utanför som<br>står och väntar på att jag ska öppna</p>
+<p class="erica chatAni">Okej, det är en man utanför<br>som står och väntar på att jag ska öppna</p>
 <p class="me chatAni">Okej... det där är väldigt skumt</p>
 <p class="erica chatAni">EH JA?!?</p>
 <p class="erica chatAni">Jag har ingen aning<br>vad jag ska ta mig till</p>
@@ -17,4 +17,4 @@
 <p class="erica chatAni">DU</p>
 <p class="erica chatAni">ÄR</p>
 <p class="erica chatAni">NÄSTA!</p>
-<p class="erica chatAni" id=end>HAHAHAHAHAHA!!</p>
+<p class="erica chatAni" id=bEnd>HAHAHAHAHAHA!!</p>
